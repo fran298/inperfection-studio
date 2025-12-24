@@ -6,12 +6,12 @@ const Nails: React.FC = () => {
   const WHATSAPP_URL = "https://wa.me/351937248867?text=Olá! Gostaria de agendar um serviço de Nails Design.";
 
   const services = [
-    { name: "Verniz de gel", price: "12€" },
+    { name: "Verniz de gel", price: "13€" },
     { name: "Express gel", price: "15€" },
     { name: "Gel (Unha Natural)", price: "25€" },
     { name: "Aplicação c/ Moldes", price: "25€ - 35€" },
     { name: "Fibra", price: "17€" },
-    { name: "Manutenção de gel", price: "19€" },
+    { name: "Manutenção de gel", price: "20€" },
     { name: "Pedicure completa", price: "15€" },
     { name: "Verniz de gel pés", price: "10€" },
   ];
