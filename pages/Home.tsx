@@ -54,7 +54,7 @@ const Home: React.FC = () => {
           <div className="lg:col-span-5 relative hidden lg:block">
             <div className="relative z-10 aspect-[4/5] overflow-hidden rounded-t-full shadow-2xl">
               <img 
-                src="https://res.cloudinary.com/dmvlubzor/image/upload/v1766579089/67dee7d63d456f38d93f1c320a14ce07_im9hif.jpg" 
+                src="https://res.cloudinary.com/dmvlubzor/image/upload/v1768083113/inperfection_l4bsd5.jpg" 
                 alt="Ambiente Estúdio Luxo" 
                 className="w-full h-full object-cover grayscale-[0.2] hover:scale-105 transition-transform duration-1000"
               />
